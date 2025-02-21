@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Raihan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A Passionate IT Student From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivy799&label=Profile%20views&color=0e75b6&style=flat" alt="ivy799" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **News Website**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel and React**
 
-- 💬 Ask me about **Web Developer**
+- 💬 Ask me about **Full-Stack Developer**
 
 - 📫 How to reach me **muhammadraihanaan123@gmail.com**
 
