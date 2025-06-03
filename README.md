@@ -1,16 +1,14 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ratheshan Sathiyamoorthy</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Muhammad Raihan</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;Full+Stack+Software+Developer;DS%20|%20CLOUD%20|%20FL%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student+from+Indonesia;Full+Stack+Developer;Cloud%20|%20Web%20Enthusiast;Always+Learning&center=true&width=500&height=50"></a>
 </p>
 
-<table width="100%" border: none; padding: 10px">
+<table width="100%" style="border: none; padding: 10px">
   <tr>
     <td style="vertical-align: top; padding-right: 20px; max-width: 500px;">
       <p align="justify">
-        <b>Hello there!</b> I'm <b>Muhammad Raihan</b>, a passionate Computer Science graduate from Sri Lanka. 
-        As an ambitious Full-Stack Software Developer, I'm dedicated to creating robust and scalable solutions that solve 
-        real-world problems. My technical journey spans across Full-stack Development, Cloud Computing, and Data Science, with a 
-        particular enthusiasm for innovative technologies and best practices.
+        <b>Hello there!</b> I'm <b>Muhammad Raihan</b>, a passionate IT student from Indonesia.<br>
+        As an aspiring Full-Stack Developer, I'm dedicated to learning and building robust solutions for real-world problems. My journey covers Web Development, Cloud Computing, and various modern technologies. I enjoy collaborating, contributing to open source, and discovering new tools and best practices.
       </p>
     </td>
     <td style="vertical-align: top;">
@@ -23,14 +21,15 @@
   <b><i> ❝ Carpediem - Seize the day! ❞</i></b>
 </h3>
 
-
 <h3>About Me 🧑</h3>
 
 - 🧞 Tech Enthusiast since childhood
-- 🔭 Currently focused on Fullstack Development and Data Science
+- 🔭 I’m currently working on **News Website**
+- 🌱 I’m currently learning **Laravel and React**
 - 👯 Looking to collaborate on Web Development and Data Science projects
-- 💡 Always eager to contribute to Open Source
-- ⚡ Fun fact: I love sports, especially Cricket
+- 💬 Ask me about **Full-Stack Developer**
+- 📫 How to reach me **muhammadraihanaan123@gmail.com**
+- ⚡ Fun fact: I love sports, especially Football
 
 ---
 
@@ -48,51 +47,32 @@
         <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
         <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
         <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-        <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a></code>
-        <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a></code>
-        <code><a href="https://kotlinlang.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"></a></code>
+        <code><a href="https://www.php.net/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a></code>
         <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
         <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
       </p>
       <h4>Frameworks & Libraries</h4>
       <p>
         <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-        <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"></a></code>
+        <code><a href="https://laravel.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></a></code>
+        <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></a></code>
         <code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-        <code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a></code>
-        <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-        <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
         <code><a href="https://tailwindcss.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a></code>
-        <code><a href="https://redux.js.org" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a></code>
-        <code><a href="https://matplotlib.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
-        <code><a href="https://www.langchain.com/" target="_blank"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg"></a></code>
       </p>
     </td>
     <td valign="top" width="50%">
       <h4>Database & Services</h4>
       <p>
-        <code><a href="https://mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
-        <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-        <code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a></code>
-        <code><a href="https://www.influxdata.com/time-series-platform/telegraf/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg"></a></code>
-        <code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
-        <code><a href="https://kubernetes.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
-        <code><a href="https://about.gitlab.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></a></code>
-        <code><a href="https://www.jenkins.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></a></code>
-        <code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
+        <code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a></code>
+        <code><a href="https://www.postgresql.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a></code>
         <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
       </p>
       <h4>Tools & Platforms</h4>
       <p>
         <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-        <code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-        <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
-        <code><a href="https://id.heroku.com/login" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a></code>
-        <code><a href="https://code.visualstudio.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a></code>
-        <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></a></code>
-        <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></a></code>
-        <code><a href="https://developer.android.com/studio" target="_blank"><img height="30" src="https://developer.android.com/images/logos/android.svg"></a></code>
-        <code><a href="https://vercel.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg"></a></code>
+        <code><a href="https://developer.android.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"></a></code>
+        <code><a href="https://www.figma.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a></code>
+        <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
       </p>
     </td>
   </tr>
@@ -139,16 +119,16 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivy799&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivy799&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratheshan03&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4" alt="Ratheshan03's contribution streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivy799&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4" alt="ivy799's contribution streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ratheshan03&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6&row=1" alt="Ratheshan03's trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ivy799&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6&row=1" alt="ivy799's trophies" />
 </div>
 </details>
 
@@ -161,35 +141,20 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lionratheshan@gmail.com" target="_blank">
+  <a href="mailto:muhammadraihanaan123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/Ratheshan_03" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/ratheshan_03/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100003874786181" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://github.com/Ratheshan03" target="_blank">
+  <a href="https://github.com/ivy799" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-   <a href="https://open.spotify.com/user/31xw3bkkvliubehb764jl5scttru" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </div>
 
 <div align="center">
   <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lzemg5b2Vhd21xbXdjMGF2aXhkd2NieDQ3emQyYXIycHJncDlrayZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ratheshan03" />
+  <img src="https://komarev.com/ghpvc/?username=ivy799&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ivy799" />
 </div>
 
 <br>
 <div align="center">
-  <p>Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
+  <p>Created with 🖤 by <a href="https://github.com/ivy799">ivy799</a></p>
 </div>
