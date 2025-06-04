@@ -12,7 +12,7 @@
       </p>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://i.makeagif.com/media/8-18-2023/tuSsml.gif" width="300" alt="Coding animation">
+      <img src="[https://i.makeagif.com/media/8-18-2023/tuSsml.gif](https://i.giphy.com/ispEc1253326c.webp)" width="300" alt="Coding animation">
     </td>
   </tr>
 </table>
